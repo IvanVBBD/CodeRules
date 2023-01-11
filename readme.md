@@ -26,6 +26,7 @@
 
 
 #Sins
+
 -Global variables
 -Don't stack promises - (Recall hell)
 - No var
