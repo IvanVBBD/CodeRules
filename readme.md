@@ -7,7 +7,7 @@
 
 # Coding Style:
 - Write readable code - (you shouldnt need to comment if you used meaningful names)
-- ES6 and Above
+- ES6 and Above (http://es6-features.org/#Constants)
 - cammelCase for naming convention
 - use let or const when declaring variables
 - Declarations on Top
