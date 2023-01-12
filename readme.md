@@ -2,6 +2,9 @@
 
 ## Language: JavaScript
 
+# IDE
+- VSCode
+
 # Coding Style:
 - Write readable code - (you shouldnt need to comment if you used meaningful names)
 - ES6 and Above
