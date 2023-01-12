@@ -1,4 +1,4 @@
-### Rules
+### Coding Rules
 
 ## Language: JavaScript
 
