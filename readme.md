@@ -13,7 +13,7 @@
 - Declarations on Top
 - Initialize Variables
 - End Your Switches with Defaults
-
+- avoid "while (true) ... break"
 
 # Code formatting
 - use tabs NOT SPACES
@@ -23,7 +23,6 @@
 - consistent indentaion use (the rainbow indent plugging is useful)
 - each statement on a new line
 - use empty lines seperate function declarations
-- avoid "while (true) ... break"
 
 
 # Sins
