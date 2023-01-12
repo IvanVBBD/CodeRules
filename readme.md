@@ -5,7 +5,7 @@
 # IDE
 - VSCode (https://code.visualstudio.com/download)
 
-# Coding Style:
+# Code Virtues:
 - Write readable code - (you shouldnt need to comment if you used meaningful names)
 - ES6 and Above (http://es6-features.org/#Constants)
 - cammelCase for naming convention
@@ -25,7 +25,7 @@
 - use empty lines seperate function declarations
 
 
-# Sins
+# Code Sins
 
 - Global variables
 - Don't stack promises - (Recall hell)
