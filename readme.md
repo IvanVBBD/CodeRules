@@ -3,7 +3,6 @@
 ## Language: JavaScript
 
 # Coding Style:
-- Use JavaScript best pratices
 - Write readable code - (you shouldnt need to comment if you used meaningful names)
 -ES6 and Above
 -cammelCase for naming convention
