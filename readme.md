@@ -9,7 +9,7 @@
 - Write readable code - (you shouldnt need to comment if you used meaningful names)
 - ES6 and Above
 - cammelCase for naming convention
-- use let or const
+- use let or const when declaring variables
 - Declarations on Top
 - Initialize Variables
 - End Your Switches with Defaults
@@ -34,3 +34,4 @@
 - God/Monolithic classes/functions
 - WET Code
 - Spelling errors
+- Do not use numbers when naming  variable names, functions and classes
