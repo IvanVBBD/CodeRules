@@ -3,7 +3,7 @@
 ## Language: JavaScript
 
 # IDE
-- VSCode
+- VSCode (https://code.visualstudio.com/download)
 
 # Coding Style:
 - Write readable code - (you shouldnt need to comment if you used meaningful names)
@@ -17,10 +17,10 @@
 
 # Code formatting
 - use tabs NOT SPACES
-- Use the standardized team linter (JSHint)
+- Use the standardized team linter use(https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint)
 - use prettier for formatting
 - { scopes on same line
-- consistent indentaion use (the rainbow indent plugging is useful)
+- consistent indentaion use (https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 - each statement on a new line
 - use empty lines seperate function declarations
 
